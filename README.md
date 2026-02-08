@@ -17,7 +17,7 @@
 - Реализация демо-приложения на Gradio: описание в файле блокнота `BuildingsArea_Gradio.ipynb`.
 - Анализ результатов: файл `Анализ_результатов.docx`.
 
-Код реализованного интерфейса лежит в директории **"Gradio/"** (файлы app.py и requirements.txt).
+Код реализованного интерфейса лежит в директории **"Gradio/"** (файлы app.py, requirements.txt и инструкция readme_gradio.txt).
 
 Также интерфейс реализован на облачной платформе Hugging Face Spaces: https://huggingface.co/spaces/Irina07/BuidingsArea.  
 
