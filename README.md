@@ -27,6 +27,8 @@
 
 Обученную версию модели сегментации BuildingSegment.pt можно скачать с яндекс диска (https://disk.yandex.ru/d/K8mT97s90b04-w) или с гугл-диска (https://drive.google.com/file/d/1mKncT_slaJmhUXsBjiua9HV_qwssJkzT/view?usp=sharing).
 
+Файлы блокнотов также можно скачать с яндекс диска (https://disk.yandex.ru/d/Pivaglo2gO9Vgw)
+
 
 
 
